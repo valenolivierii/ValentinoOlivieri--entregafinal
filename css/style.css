@@ -1,0 +1,75 @@
+html{
+    overflow-x: hidden;
+}
+
+.navClass a{
+    color: white;
+    font-size: 20px;
+    margin: 5px;
+}
+
+.navClass a:hover{
+    color:bisque;
+}
+
+.productos a{
+    color: black;
+    font-size: 15px;
+}
+
+.productos a:hover{
+    color: black;
+}
+
+.lupita{
+    color: white;
+}
+
+.productos2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+
+.card {
+    display: flex;
+    align-items: center;
+    margin: 1rem;
+}
+
+.imgProductos {
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    margin-top: 1rem;
+}
+
+.btnCarrito{
+    margin: 10px;
+}
+
+.icono{
+    padding: 5px;
+}
+
+.btnCarrito2{
+    margin: 10px;
+}
+
+.offcanvas-body div{
+    justify-content: center;
+    height: auto;
+    width: auto;
+    overflow-x: hidden;
+  }
+  
+  .offcanvas-body img {
+    height: 120px;
+    width: 600px;
+  }
+  
+  .totalCompra{
+    align-self: end;
+  }
+

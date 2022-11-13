@@ -1,0 +1,11 @@
+[
+    {"nombre":"MacBook Air 13´´ M1 8 GB RAM 512 GB - Plateado (Silver)", "precio":1800, "id":1, "img":"img/macbookair-512gb-plateado.jpg", "cantidad":1},
+    {"nombre":"MacBook Pro 13´´ Touch Bar M1 512 GB - Plateado (Silver) (2020)", "precio":2770, "id":2, "img":"img/macbookpro-512gb-plateado.jpg", "cantidad":1},
+    {"nombre":"MacBook Pro 14´´ M1 Pro 1 TB - Gris Espacial (Space Gray)", "precio":3000, "id":3, "img":"img/macbookpro-1tb-grisespacial.jpg", "cantidad":1},
+    {"nombre":"MacBook Pro 16´´ M1 Max 1 TB - Gris Espacial (Space Gray)", "precio":3740, "id":4, "img":"img/macbookpromax-1tb-grisespacial.jpg", "cantidad":1},
+    {"nombre":"iPhone 12 128 GB - Violeta (Purple)", "precio":1300, "id":5, "img":"img/iphone12-128gb-violeta.jpg", "cantidad":1},
+    {"nombre":"iPhone 13 128 GB - Blanco Estrella (Starlight)", "precio":1500, "id":6, "img":"img/iphone13-128gb-blanco.jpg", "cantidad":1},
+    {"nombre":"iPhone 13 Pro 256 GB - Azul Claro (Sierra Blue)", "precio":1700, "id":7, "img":"img/iphone13pro-256gb-sierrablue.jpg", "cantidad":1},
+    {"nombre":"iPhone 13 Pro Max 512 GB - Grafito (Graphite)", "precio":1900, "id":8, "img":"img/iphone13promax-512gb-grafito.jpg", "cantidad":1}
+]
+
